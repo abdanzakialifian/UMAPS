@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "313033052131",
+    "project_id": "umapsapp",
+    "storage_bucket": "umapsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313033052131:android:7dabb3b2c1cc684e5fdad6",
+        "android_client_info": {
+          "package_name": "com.sig.umaps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313033052131-cnma4n73nltobgv14hs37john5ikvbne.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sig.umaps",
+            "certificate_hash": "079366083a34539b1764a288be0fbf34b50654b8"
+          }
+        },
+        {
+          "client_id": "313033052131-kcuksomr1k95qbvf7mlev8dhri1u9m6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVeq9y_fm0_geeiwRPdTpxNNu95UV7pPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313033052131-bh81u54j98k9fgbjsmsh3t4rf1ebtnta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
